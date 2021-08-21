@@ -508,7 +508,7 @@
     </script>
 
 
-<video class="videoLoop" autoplay loop>
+<video id="videoLoop" class="videoLoop" autoplay loop>
     <source src="https://www.pownftmetadata.com/v/4544" type="video/mp4">
 </video>
 <div class="player">
@@ -635,6 +635,8 @@
     }
 
         function play(){
+            document.getElementById("videoLoop").play();
+
             if(skwid){
                 if(skwid.music){
                     skwid.music.resume();
