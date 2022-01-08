@@ -1,7 +1,6 @@
 {"name":"#IMAGE WITH AUDIO","description":"test 4b",
  "attributes":[{"display_type":"number","trait_type":"Generation","value":"12"},{"trait_type":"Element","value":"Antimony"},{"trait_type":"Period","value":"5"},{"trait_type":"Group","value":"15"},{"trait_type":"Category","value":"Metalloid"}],"external_url":"https://www.pownft.com/collection/4544",
  "background_color":"000000",
-"image":"https://www.pownftmetadata.com/p/1241",
+"image":"https://gateway.pinata.cloud/ipfs/QmRXsuWfWPiwU86CYYDPtXftR3JCF84ciFst5VWpA3JXuQ/1.svg",
 "liveModel":"https://www.pownftmetadata.com/l/4544.html",
-"animation_url":"https://gateway.pinata.cloud/ipfs/QmRTRUwJEcb4CUvYtCt5ik8KwkFase2DToNjqbmXRy3SwN/1.html"
 }
