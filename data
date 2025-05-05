@@ -1,0 +1,8 @@
+{
+    "name": "Non IPFS ",
+    "symbol": "NIPFS",
+    "description": "No IPFS metadata test",
+    "image": "https://file-host-test.netlify.app/cat.jpeg",
+    "showName": true,
+    "createdOn": "https://pump.fun"
+  }
